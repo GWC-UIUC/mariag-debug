@@ -298,20 +298,20 @@ ul li {
 -------------------------------------------------------------------------------*/
 
 .banner {
-	background-color: #f442e2;
+	background-color: #030203;
 	min-height: 750px;
 }
 .banner-text {
 	padding-top: 28%;
 }
 .banner-text h1 {
-	color: #fff;
+	color: #ff93dd;
 	font-family: "Roboto Slab", sans-serif;
 	font-size: 80px;
 	font-weight: 700;
 }
 .banner-text p {
-	color: #fff;
+	color: #ff93dd;
 	font-size: 19px;
 	font-weight: 400;
 	letter-spacing: 3px;
